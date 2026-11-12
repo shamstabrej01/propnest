@@ -1,5 +1,6 @@
 # PropNest
 
-Property listing dApp built with Arc Studio. Users can browse, list, and manage properties for sale or rent with wallet connect.
+Property listing dApp built with Arc Studio.
 
-Live: https://propnest-app.netlify.app/
+Live: https://propnest-app.netlify.app
+Latest code: https://github.com/shamstabrej01/propnest-v2
